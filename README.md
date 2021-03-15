@@ -1,5 +1,25 @@
-### Hi there 👋, I'm Luca(s)
+### Hi there 👋
 ----------------------------
+I'm Lucas. I'm from Greece, I studied at the University of Manchester and I live in Germany (Deutschland ist noch das Beste ❤️)
 
-![](https://github-readme-stats.vercel.app/api?username=cohaereo&show_icons=true&theme=tokyonight)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cohaereo&layout=compact&theme=tokyonight)
+- 📝 Programming language experience
+  - C++
+  - C#
+  - Java/Kotlin
+  - Python
+  - Golang
+  - JavaScript/TypeScript
+  - aarch64/x86 assembly
+- 🇩🇪 Spoken language experience
+  - 🇬🇧 English (native)
+  - 🇬🇷 Greek (semi-native)
+  - 🇩🇪 German
+  - 🇷🇺 Russian
+  - 🇸🇪 Swedish (beginner)
+  - 🇯🇵 Japanese (beginner)
+- 👁️ Active projects
+  - [Xenon, an open-source kernel built from the ground up](https://github.com/elementalOS/xenon)
+  - Nautilus, an independent implementation of Minecraft's network protocol
+- 📨 Contact
+  - E-mail: lucasteal@protonmail.com
+  - Twitter: @voidLuca
