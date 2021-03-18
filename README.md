@@ -3,18 +3,18 @@
 I'm Lucas. I'm from Greece, I studied at the University of Manchester and I live in Germany (Deutschland ist noch das Beste ❤️)
 
 - 📝 Programming language experience
-  - C++
-  - C#
-  - Java/Kotlin
-  - Python
-  - Golang
-  - JavaScript/TypeScript
-  - aarch64/x86 assembly
+  - C++ (fluent)
+  - Python (fluent)
+  - Golang (advanced)
+  - C# (advanced)
+  - Java/Kotlin(advanced)
+  - JavaScript/TypeScript (intermediate)
+  - aarch64/x86 assembly (intermediate)
 - 🇩🇪 Spoken language experience
   - 🇬🇧 English (native)
   - 🇬🇷 Greek (semi-native)
-  - 🇩🇪 German
-  - 🇷🇺 Russian
+  - 🇩🇪 German (intermediate)
+  - 🇷🇺 Russian (beginner)
   - 🇸🇪 Swedish (beginner)
   - 🇯🇵 Japanese (beginner)
 - 👁️ Active projects
