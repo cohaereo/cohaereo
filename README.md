@@ -13,7 +13,7 @@ I'm Lucas. I'm from Greece, I studied at the University of Manchester and I live
 - 🇩🇪 Spoken language experience
   - 🇬🇧 English (native)
   - 🇬🇷 Greek (semi-native)
-  - 🇩🇪 German (intermediate)
+  - 🇩🇪 German (advanced)
   - 🇷🇺 Russian (beginner)
   - 🇸🇪 Swedish (beginner)
   - 🇯🇵 Japanese (beginner)
