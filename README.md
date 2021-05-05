@@ -19,7 +19,7 @@ I'm Lucas. I'm from Greece, I studied at the University of Manchester and I live
   - 🇯🇵 Japanese (beginner)
 - 👁️ Active projects
   - [Xenon, an open-source kernel built from the ground up](https://github.com/elementalOS/xenon)
-  - Nautilus, an independent implementation of Minecraft's network protocol
+ <!-- - Nautilus, an independent implementation of Minecraft's network protocol -->
 - 📨 Contact
   - E-mail: lucasteal@protonmail.com
   - Twitter: @voidLuca
