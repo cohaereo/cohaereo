@@ -5,9 +5,10 @@ I'm Lucas. I'm from Greece, I studied at the University of Manchester and I live
 - 📝 Programming language experience
   - C++ (fluent)
   - Python (fluent)
-  - Golang (advanced)
+  - Rust (advanced)
   - C# (advanced)
   - Java/Kotlin(advanced)
+  - Golang (intermediate)
   - JavaScript/TypeScript (intermediate)
   - aarch64/x86 assembly (intermediate)
 - 🇩🇪 Spoken language experience
