@@ -1,6 +1,6 @@
 ### Hi there 👋
 ----------------------------
-I'm Lucas. I'm from Greece, I studied at the University of Manchester and I live in Germany (Deutschland ist noch das Beste ❤️)
+I'm Lucas. I'm from Greece, and I live in Germany (Deutschland ist noch das Beste ❤️)
 
 - 📝 Programming language experience
   - C++ (fluent)
