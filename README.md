@@ -15,9 +15,8 @@ I'm Lucas. I'm from Greece, and I live in Germany (Deutschland ist noch das Best
   - 🇬🇧 English (native)
   - 🇬🇷 Greek (semi-native)
   - 🇩🇪 German (advanced)
-  - 🇷🇺 Russian (beginner)
-  - 🇸🇪 Swedish (beginner)
   - 🇯🇵 Japanese (beginner)
+  - Na'vi (beginner)
 - 👁️ Active projects
   - [Xenon, an open-source kernel built from the ground up](https://github.com/elementalOS/xenon)
  <!-- - Nautilus, an independent implementation of Minecraft's network protocol -->
