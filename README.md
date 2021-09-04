@@ -21,5 +21,5 @@ I'm Lucas. I'm from Greece, and I live in Germany (Deutschland ist noch das Best
   - [Xenon, an open-source kernel built from the ground up](https://github.com/elementalOS/xenon)
  <!-- - Nautilus, an independent implementation of Minecraft's network protocol -->
 - 📨 Contact
-  - E-mail: lucasteal@protonmail.com
+  - E-mail: cohaereo@protonmail.com
   - Twitter: @voidLuca
