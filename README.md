@@ -8,8 +8,6 @@ I'm Lucas. I'm from Greece, and I live in Germany (Deutschland ist noch das Best
   - Rust (advanced)
   - C# (advanced)
   - Java/Kotlin(advanced)
-  - Golang (intermediate)
-  - JavaScript/TypeScript (intermediate)
   - aarch64/x86 assembly (intermediate)
 - 🇩🇪 Spoken language experience
   - 🇬🇧 English (native)
