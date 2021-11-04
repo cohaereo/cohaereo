@@ -16,8 +16,9 @@ I'm Lucas. I'm from Greece, and I live in Germany (Deutschland ist noch das Best
   - 🇯🇵 Japanese (beginner)
   - Na'vi (beginner)
 - 👁️ Active projects
-  - [Xenon, an open-source kernel built from the ground up](https://github.com/elementalOS/xenon)
- <!-- - Nautilus, an independent implementation of Minecraft's network protocol -->
+  - [wotwdecomp, a decompilation of Tom and Jerry: War of the Whiskers](https://github.com/cohaereo/wotwdecomp)
+  - Untitled Magic Game, a factorio-meets thaumcraft-meets terraria game
+  - And more 👀
 - 📨 Contact
   - E-mail: cohaereo@protonmail.com
   - Twitter: @voidLuca
