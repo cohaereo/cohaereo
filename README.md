@@ -21,4 +21,4 @@ I'm Lucas. I'm from Greece, and I live in Germany (Deutschland ist noch das Best
   - And more 👀
 - 📨 Contact
   - E-mail: cohaereo@protonmail.com
-  - Twitter: @voidLuca
+  - Twitter: @luca_cohaereo
