@@ -11,7 +11,7 @@ I'm Lucas. I'm from Greece, and I live in Germany (Deutschland ist noch das Best
   - aarch64/x86 assembly (intermediate)
 - 🇩🇪 Spoken language experience
   - 🇬🇧 English (native)
-  - 🇬🇷 Greek (semi-native)
+  - 🇬🇷 Greek (advanced)
   - 🇩🇪 German (advanced)
   - 🇯🇵 Japanese (beginner)
   - Na'vi (beginner)
