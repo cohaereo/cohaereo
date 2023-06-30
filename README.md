@@ -20,6 +20,7 @@ I'm an avid Rust fan (the programming language, not the survival game), and am f
   - Computer graphics development (Vulkan, WebGPU)
   - Game development (mainly in-house engines)
     - Virtual reality (Oculus Quest 2)
+    - Handheld (Steam Deck)
   - Music (metal, guitar, pipe organ, cristal baschet)
 - 👁️ Active projects
   - 🔫 [V4NGUARD](https://github.com/v4nguard), custom servers for Destiny 1
