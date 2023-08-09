@@ -30,7 +30,6 @@ I'm an avid Rust fan (the programming language) and graphics developer/engine de
   - 🖥️ Rendering engine in Rust using Vulkan
   - ☕ JVM runtime written in Rust
 - 📨 Contact
-  - Discord: cohae#6517 (probably @cohaereo if discord changed usernames by the time you're reading this)
+  - Discord: cohae
   - E-mail: cohaereo@protonmail.com
-    - **Send your mails to this email if you want me to read them!**
-  - Twitter: @luca_cohaereo
+    - ⚠️ **Send your mails to this email if you want me to read them!**
