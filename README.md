@@ -2,7 +2,7 @@
 ----------------------------
 I'm Lucas. I'm from Greece, and I live in Germany
 
-I'm an avid Rust fan (the programming language, not the survival game), and am following my aspirations to become a game developer
+I'm an avid Rust fan (the programming language) and graphics developer/engine development connoisseur 
 
 - 📝 Programming language experience
   - 🐍 Python (master)
