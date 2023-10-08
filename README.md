@@ -24,8 +24,9 @@ I'm an avid Rust fan (the programming language) and graphics developer/engine de
   - Music (metal, guitar, pipe organ, cristal baschet)
 - 👁️ Active projects
   - 🔫 [V4NGUARD](https://github.com/v4nguard), custom servers for Destiny 1
-  - 👨‍🍳 [Eurochef](https://github.com/eurotools/eurochef), utilities for (de)compiling Eurocom EngineX assets
+  - 🪄 [Alkahest](https://github.com/cohaereo/alkahest), Destiny 2 asset multitool
   - 🦀 [Minecrab](https://github.com/cohaereo/minecrab), custom Minecraft client written in Rust using WGPU
+  - 👨‍🍳 [Eurochef](https://github.com/eurotools/eurochef), utilities for (de)compiling Eurocom EngineX assets
 - 🧪 Experimental projects
   - 🖥️ Rendering engine in Rust using Vulkan
   - ☕ JVM runtime written in Rust
