@@ -23,8 +23,10 @@ I'm an avid Rust fan (the programming language) and graphics developer/engine de
     - Handheld (Steam Deck)
   - Music (metal, guitar, pipe organ, cristal baschet)
 - 👁️ Active projects
-  - 🔫 [V4NGUARD](https://github.com/v4nguard), custom servers for Destiny 1
+  - 🔫 [V4NGUARD](https://github.com/v4nguard), custom servers for Destiny 1 (closed-source)
   - 🪄 [Alkahest](https://github.com/cohaereo/alkahest), Destiny 2 asset multitool
+  - 🎥 Chimera, a modular multiplatform game engine (closed-source)
+- ⏸️ Paused projects
   - 🦀 [Minecrab](https://github.com/cohaereo/minecrab), custom Minecraft client written in Rust using WGPU
   - 👨‍🍳 [Eurochef](https://github.com/eurotools/eurochef), utilities for (de)compiling Eurocom EngineX assets
 - 🧪 Experimental projects
