@@ -5,12 +5,12 @@ I'm Lucas. I'm from Greece, and I live in Germany
 I'm an avid Rust fan (the programming language) and graphics developer/engine development connoisseur 
 
 - 📝 Programming language experience
-  - 🐍 Python (master)
-  - 🦀 Rust (master)
+  - 🐍 Python (mastery)
+  - 🦀 Rust (mastery)
+  - 🪟 C# (advanced)
+  - ✨ HLSL/GLSL (advanced)
   - ➕ C++ (advanced)
   - ☕ Java/Kotlin(advanced)
-  - 🪟 C# (advanced)
-    - ASP.NET (intermediate)
   - 🔵 Go (intermediate)
   - 📜 Javascript/Typescript (intermediate)
   - 💽 aarch64/x86 assembly (intermediate)
