@@ -3,14 +3,14 @@
 I'm Lucas, I am an avid Rustlang fan and graphics developer, game engine connoisseur and reverse engineer 
 
 - 📝 Programming language experience
-  - 🐍 Python (mastery)
   - 🦀 Rust (mastery)
   - 🪟 C# (advanced)
   - ✨ HLSL/GLSL (advanced)
   - ➕ C++ (advanced)
-  - ☕ Java/Kotlin(advanced)
-  - 🔵 Go (intermediate)
-  - 📜 Javascript/Typescript (intermediate)
+  - 🐍 Python (advanced)
+  - ☕ †Java/Kotlin(advanced)
+  - 🔵 †Go (intermediate)
+  - 📜 †Javascript/Typescript (intermediate)
   - 💽 aarch64/x86 assembly (intermediate)
   - ⚡ Zig (beginner)
 - 👀 Interests
