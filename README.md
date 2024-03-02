@@ -1,6 +1,5 @@
-### Hi there 👋
-----------------------------
-I'm Lucas, I am an avid Rustlang fan and graphics developer, game engine connoisseur and reverse engineer 
+## Hi there 👋
+I'm Lucas, I am an avid Rustlang fan and graphics developer, reverse engineer, game engine connoisseur 
 
 - 📝 Programming language experience
   - 🦀 Rust (mastery)
@@ -33,3 +32,12 @@ I'm Lucas, I am an avid Rustlang fan and graphics developer, game engine connois
   - Discord: cohae
   - E-mail: cohaereo@protonmail.com
     - ⚠️ **Send your mails to this email if you want me to read them!**
+
+### Bytecode Hell
+In light of my obsession with bytecode formats, here's a list of formats i've reversed/implemented
+- [TFX Expression Bytecode](https://github.com/cohaereo/alkahest/blob/lightfall/docs/shaders/bytecode.md): Reversed + implemented
+  - The expression bytecode that powers the rendering pipeline of the Tiger engine, used in Destiny 1 + 2
+- Unnamed Tiger Engine Bytecode: Currently reversing
+  - Similar to TFX expressions, but for other, currently unknown purposes
+- JVM Bytecode: Implemented (HSJVM)
+- Gamemaker VM Bytecode: Implemented (Valkyrie)
