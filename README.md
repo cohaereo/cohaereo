@@ -41,3 +41,18 @@ In light of my obsession with bytecode formats, here's a list of formats i've re
   - Similar to TFX expressions, but for other, currently unknown purposes
 - JVM Bytecode: Implemented (HSJVM)
 - Gamemaker VM Bytecode: Implemented (Valkyrie)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cohaereo&theme=github_dark)
+<p float="left">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cohaereo&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=cohaereo&theme=github_dark)
+  
+</p>
+
+<p float="left">
+  
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=cohaereo&theme=github_dark)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=cohaereo&theme=github_dark)
+
+</p>
