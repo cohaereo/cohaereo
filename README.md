@@ -30,7 +30,7 @@ I'm Lucas, I am an avid Rustlang fan and graphics developer, reverse engineer, g
   - ☕ JVM runtime written in Rust
 - 📨 Contact
   - Discord: cohae
-  - E-mail: cohaereo@protonmail.com
+  - E-mail: cohae@cohae.dev
     - ⚠️ **Send your mails to this email if you want me to read them!**
 
 ### Bytecode Hell
