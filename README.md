@@ -22,8 +22,8 @@ I'm cohae, an avid Rustlang fan, graphics developer, reverse engineer, and game 
 - 👁️ Active projects
   - 🔫 [V4NGUARD](https://github.com/v4nguard), custom servers for Destiny 1 (closed-source)
   - 🪄 [Alkahest](https://github.com/cohaereo/alkahest), Destiny 2 asset multitool
-  - 🎥 Chimera, a modular multiplatform game engine (private)
-- ⏸️ Paused projects
+  - 🎥 Pulsar, a modular multiplatform game engine (private)
+- ⏪ Past projects
   - 🦀 [Minecrab](https://github.com/cohaereo/minecrab), custom Minecraft client written in Rust using WGPU
   - 👨‍🍳 [Eurochef](https://github.com/eurotools/eurochef), utilities for (de)compiling Eurocom EngineX assets
 - 📨 Contact
